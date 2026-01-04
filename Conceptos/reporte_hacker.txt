@@ -1,0 +1,4 @@
+2024-01-10 08:05:00 [ERROR] User1 subió archivo
+2024-01-10 08:10:00 [ERROR] Fallo de contraseña - IP 192.168.1.55
+2024-01-10 08:11:00 [ERROR] Fallo de contraseña - IP 192.168.1.55
+2024-01-10 08:12:00 [ERROR] Fallo de contraseña - IP 192.168.1.55
